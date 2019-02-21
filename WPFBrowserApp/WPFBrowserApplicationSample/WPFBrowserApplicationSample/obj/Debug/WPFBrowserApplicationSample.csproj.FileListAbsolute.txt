@@ -1,0 +1,15 @@
+C:\Users\Tech-W96a\Engineering26\day3\WPFBrowserApp\WPFBrowserApplicationSample\WPFBrowserApplicationSample\bin\Debug\WPFBrowserApplicationSample.exe.config
+C:\Users\Tech-W96a\Engineering26\day3\WPFBrowserApp\WPFBrowserApplicationSample\WPFBrowserApplicationSample\bin\Debug\WPFBrowserApplicationSample.exe
+C:\Users\Tech-W96a\Engineering26\day3\WPFBrowserApp\WPFBrowserApplicationSample\WPFBrowserApplicationSample\bin\Debug\WPFBrowserApplicationSample.pdb
+C:\Users\Tech-W96a\Engineering26\day3\WPFBrowserApp\WPFBrowserApplicationSample\WPFBrowserApplicationSample\obj\Debug\WPFBrowserApplicationSample.csprojAssemblyReference.cache
+C:\Users\Tech-W96a\Engineering26\day3\WPFBrowserApp\WPFBrowserApplicationSample\WPFBrowserApplicationSample\obj\Debug\MainWindow.g.cs
+C:\Users\Tech-W96a\Engineering26\day3\WPFBrowserApp\WPFBrowserApplicationSample\WPFBrowserApplicationSample\obj\Debug\App.g.cs
+C:\Users\Tech-W96a\Engineering26\day3\WPFBrowserApp\WPFBrowserApplicationSample\WPFBrowserApplicationSample\obj\Debug\WPFBrowserApplicationSample_MarkupCompile.cache
+C:\Users\Tech-W96a\Engineering26\day3\WPFBrowserApp\WPFBrowserApplicationSample\WPFBrowserApplicationSample\obj\Debug\WPFBrowserApplicationSample_MarkupCompile.lref
+C:\Users\Tech-W96a\Engineering26\day3\WPFBrowserApp\WPFBrowserApplicationSample\WPFBrowserApplicationSample\obj\Debug\MainWindow.baml
+C:\Users\Tech-W96a\Engineering26\day3\WPFBrowserApp\WPFBrowserApplicationSample\WPFBrowserApplicationSample\obj\Debug\WPFBrowserApplicationSample.g.resources
+C:\Users\Tech-W96a\Engineering26\day3\WPFBrowserApp\WPFBrowserApplicationSample\WPFBrowserApplicationSample\obj\Debug\WPFBrowserApplicationSample.Properties.Resources.resources
+C:\Users\Tech-W96a\Engineering26\day3\WPFBrowserApp\WPFBrowserApplicationSample\WPFBrowserApplicationSample\obj\Debug\WPFBrowserApplicationSample.csproj.GenerateResource.cache
+C:\Users\Tech-W96a\Engineering26\day3\WPFBrowserApp\WPFBrowserApplicationSample\WPFBrowserApplicationSample\obj\Debug\WPFBrowserApplicationSample.csproj.CoreCompileInputs.cache
+C:\Users\Tech-W96a\Engineering26\day3\WPFBrowserApp\WPFBrowserApplicationSample\WPFBrowserApplicationSample\obj\Debug\WPFBrowserApplicationSample.exe
+C:\Users\Tech-W96a\Engineering26\day3\WPFBrowserApp\WPFBrowserApplicationSample\WPFBrowserApplicationSample\obj\Debug\WPFBrowserApplicationSample.pdb
